@@ -13,3 +13,8 @@
 1.  Клонировать репозиторий: `git clone https://github.com/Dar3st/finance-tracker-javafx`
 2.  Открыть проект в IntelliJ IDEA
 3.  Запустить класс `Main.java`
+
+controller - # Обработчики событий UI
+model - # Сущности (Transaction, Category)
+dao(Data Access Object) - # Работа с БД (JDBC)
+service - # Бизнес-логика
